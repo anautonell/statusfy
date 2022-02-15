@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'System Status',
+  title: 'myProtect System Status',
   name: 'system_status',
   description: 'Vercel'
 };
