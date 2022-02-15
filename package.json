@@ -75,6 +75,11 @@
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
       "pre-commit": "yarn run lint"
+      {
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  }
+}
     }
   }
 }
